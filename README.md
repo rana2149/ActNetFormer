@@ -3,4 +3,4 @@
 
 ## Overview
 
-![My Image](assets/ICASSP-1.pdf)
+![My Image](assets/ICASSP-1.png)
