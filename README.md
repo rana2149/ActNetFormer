@@ -1,5 +1,4 @@
-# ssl_timesformer_action_recognition
-
+# ActNetFormer: Transformer-ResNet Hybrid Method for Semi-Supervised Action Recognition in Videos
 
 ## Overview
 
