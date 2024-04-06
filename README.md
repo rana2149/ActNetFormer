@@ -4,4 +4,4 @@
 
 ![My Image](assets/ICASSP-1.png)
 
-This page contains all the Datasets and Code bases (experiments and evaluations) involved in experimenting and establishing our newly proposed ActNetFormer framework for video action recognition.
+This page contains all the Datasets and Code bases (experiments and evaluations) involved in experimenting and establishing our newly proposed **ActNetFormer** framework for video action recognition.
