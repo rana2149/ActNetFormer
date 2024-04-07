@@ -26,6 +26,17 @@ Human action or activity recognition in videos is a fundamental task in computer
 
 ![My Image](assets/compare.png)
 
+### The components of our ActNetFormer architecture
+
+| Steps       |    Details/Link     |
+| ------------- | ------------- |
+|| |
+|| |
+|| |
+|| |
+|| |
+
+
 
 ## Our work utilizes the following:
 
