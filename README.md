@@ -55,6 +55,8 @@ Human action or activity recognition in videos is a fundamental task in computer
 
 `CVPR 2022` | `CMPL` - Cross-Model Pseudo-Labeling for Semi-Supervised Action Recognition | [Code](https://justimyhxu.github.io/projects/cmpl/)
 
+`IEEE TIP 2023` | `NCCL` - Neighbor-guided consistent and contrastive learning for semi-supervised action recognition | [Code](https://ieeexplore.ieee.org/document/10100655)
+
 ### <ins>Action recognition datasets</ins>
 
  `Kinetics-500 2017` | Kinetics400 Dataset: The Kinetics Human Action Video Dataset | [Link](https://github.com/cvdfoundation/kinetics-dataset)
