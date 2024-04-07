@@ -46,6 +46,9 @@ Human action or activity recognition in videos is a fundamental task in computer
 
 ### <ins>Action recognition datasets</ins>
 
+ `Kinetics-500 2017` | Kinetics400 Dataset: The Kinetics Human Action Video Dataset | [Link](https://github.com/cvdfoundation/kinetics-dataset)
+
+`CRCV-TR-12-01 2012` |`UCF-100` | UCF101: A Dataset of 101 Human Action Classes From Videos in The Wild | [Link](https://www.crcv.ucf.edu/data/UCF101.php) 
 
 ## Experiments and Results
 
