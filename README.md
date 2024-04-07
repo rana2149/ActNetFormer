@@ -28,3 +28,6 @@ Human action or activity recognition in videos is a fundamental task in computer
 
 ## Experiments and Results
 
+![My Image](assets/results.png)
+
+For more details and experimental results please check out the paper!!
