@@ -28,13 +28,11 @@ Human action or activity recognition in videos is a fundamental task in computer
 
 ### The components of our ActNetFormer architecture
 
-| Components       |    Details/Link     |
+| Components       |    Details/Link     | Structure | 
 | ------------- | ------------- |
-| 3D CNN as Primary model | [3D-ResNet50](https://github.com/kenshohara/3D-ResNets-PyTorch), [Paper](https://ieeexplore.ieee.org/document/9008780)
-| Video Transformer (VIT) as Auxiliary model | VIT-S: We employ the Vision Transformer ([ViT](https://paperswithcode.com/paper/an-image-is-worth-16x16-words-transformers-1)) extended with the video [TimeSformer](https://github.com/facebookresearch/TimeSformer) as the auxiliary model in our ActNetFormer| 
-|| |
-|| |
-|| |
+| 3D CNN as Primary model | [3D-ResNet50](https://github.com/kenshohara/3D-ResNets-PyTorch), [Paper](https://ieeexplore.ieee.org/document/9008780) |
+| Video Transformer (VIT) as Auxiliary model | VIT-S: We employ the Vision Transformer ([ViT](https://paperswithcode.com/paper/an-image-is-worth-16x16-words-transformers-1)) extended with the video [TimeSformer](https://github.com/facebookresearch/TimeSformer) as the auxiliary model in our ActNetFormer inspired by [DeiT-S](https://paperswithcode.com/paper/training-data-efficient-image-transformers)| Dimensions: 384; Heads: 6 | 
+
 
 
 
