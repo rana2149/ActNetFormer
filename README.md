@@ -24,3 +24,7 @@ Human action or activity recognition in videos is a fundamental task in computer
 
 ### Comparison of performance between different architectural models
 ![My Image](assets/compare.png)
+
+
+## Experiments and Results
+
