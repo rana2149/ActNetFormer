@@ -36,7 +36,7 @@ Human action or activity recognition in videos is a fundamental task in computer
 
 `CVPR 2021` | `TCL` - Semi-Supervised Action Recognition with Temporal Contrastive Learning | [Code](https://github.com/CVIR/TCL)
 
-`ICCV 2022` | `MvPL` - | Multiview Pseudo-Labeling for Semi-supervised Learning from Video | [Code]([https://arxiv.org/pdf/2104.00682.pdf](https://openaccess.thecvf.com/content/ICCV2021/papers/Xiong_Multiview_Pseudo-Labeling_for_Semi-Supervised_Learning_From_Video_ICCV_2021_paper.pdf))
+`ICCV 2022` | `MvPL` - | Multiview Pseudo-Labeling for Semi-supervised Learning from Video | [Code](https://openaccess.thecvf.com/content/ICCV2021/papers/Xiong_Multiview_Pseudo-Labeling_for_Semi-Supervised_Learning_From_Video_ICCV_2021_paper.pdf)
 
 `IEEE TCSVT 2022` | `TACL` -  | Semi-Supervised Action Recognition From Temporal Augmentation Using Curriculum Learning | [Code](https://ieeexplore.ieee.org/document/9904603)
 
