@@ -44,6 +44,8 @@ Human action or activity recognition in videos is a fundamental task in computer
 
 `CVPR 2022` | `CMPL` - | Cross-Model Pseudo-Labeling for Semi-Supervised Action Recognition | [Code](https://justimyhxu.github.io/projects/cmpl/)
 
+### <ins>Action recognition datasets</ins>
+
 
 ## Experiments and Results
 
