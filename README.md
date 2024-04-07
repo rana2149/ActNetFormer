@@ -34,6 +34,9 @@ Human action or activity recognition in videos is a fundamental task in computer
 
 `NeurIPS 2020` | `FixMarch` - Simplifying semi-supervised learning with consistency and confidence | [Code](https://github.com/google-research/fixmatch)
 
+`CVPR 2021` | `TCL` - Semi-Supervised Action Recognition with Temporal Contrastive Learning | [Code](https://github.com/CVIR/TCL)
+
+
 ## Experiments and Results
 
 ![My Image](assets/results.png)
