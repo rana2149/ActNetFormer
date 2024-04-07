@@ -30,7 +30,7 @@ Human action or activity recognition in videos is a fundamental task in computer
 ## Our work utilizes the following:
 
 
-### <ins>State-of-the-art learning models</ins>
+### <ins>State-of-the-art learning models for action/activity recognition</ins>
 
 `NeurIPS 2020` | `FixMarch` - Simplifying semi-supervised learning with consistency and confidence | [Code](https://github.com/google-research/fixmatch)
 
