@@ -34,7 +34,7 @@ Human action or activity recognition in videos is a fundamental task in computer
 | Video Transformer (VIT) as *Auxiliary model* | VIT-S: We employ the Vision Transformer ([ViT](https://paperswithcode.com/paper/an-image-is-worth-16x16-words-transformers-1)) extended with the video [TimeSformer](https://github.com/facebookresearch/TimeSformer) as the auxiliary model in our ActNetFormer inspired by [DeiT-S](https://paperswithcode.com/paper/training-data-efficient-image-transformers)| Dimensions: 384; Heads: 6; Layers: 12 | 
 | Spatial Data Augmentation| We utilize techniques in [SlowFast](https://github.com/facebookresearch/SlowFast) and [this](https://github.com/facebookresearch/video-nonlocal-net)| NA |
 | Temporal Data Augmentation| We incorporate variations in frame rates for temporal data augmentations, inspired by prior research in [TCL](https://github.com/CVIR/TCL) and [VTHCL](https://github.com/decisionforce/VTHCL) | NA |
-| Contrastive Learning| We use weakly augmented samples from each architecture for cross-architecture contrastive learning, inspired by [this](https://github.com/lambert-x/video-semisup), moreover the contrastive loss adapted is adopted from [SimCLR:](https://github.com/google-research/simclr) and [TCL](https://cvir.github.io/TCL/)| NA |
+| Contrastive Learning| We use weakly augmented samples from each architecture for cross-architecture contrastive learning, inspired by [this](https://github.com/lambert-x/video-semisup), moreover the contrastive loss adapted is adopted from [SimCLR](https://github.com/google-research/simclr) and [TCL](https://cvir.github.io/TCL/)| NA |
 
 
 
