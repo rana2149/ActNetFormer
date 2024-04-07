@@ -36,13 +36,13 @@ Human action or activity recognition in videos is a fundamental task in computer
 
 `CVPR 2021` | `TCL` - Semi-Supervised Action Recognition with Temporal Contrastive Learning | [Code](https://github.com/CVIR/TCL)
 
-`ICCV 2022` | `MvPL` - | Multiview Pseudo-Labeling for Semi-supervised Learning from Video | [Code](https://openaccess.thecvf.com/content/ICCV2021/papers/Xiong_Multiview_Pseudo-Labeling_for_Semi-Supervised_Learning_From_Video_ICCV_2021_paper.pdf)
+`ICCV 2022` | `MvPL` - Multiview Pseudo-Labeling for Semi-supervised Learning from Video | [Code](https://openaccess.thecvf.com/content/ICCV2021/papers/Xiong_Multiview_Pseudo-Labeling_for_Semi-Supervised_Learning_From_Video_ICCV_2021_paper.pdf)
 
-`IEEE TCSVT 2022` | `TACL` -  | Semi-Supervised Action Recognition From Temporal Augmentation Using Curriculum Learning | [Code](https://ieeexplore.ieee.org/document/9904603)
+`IEEE TCSVT 2022` | `TACL` - Semi-Supervised Action Recognition From Temporal Augmentation Using Curriculum Learning | [Code](https://ieeexplore.ieee.org/document/9904603)
 
-`CVPR 2022` | `LTG` - | Learning from Temporal Gradient for Semi-supervised Action Recognition | [Code](https://github.com/lambert-x/video-semisup)
+`CVPR 2022` | `LTG` - Learning from Temporal Gradient for Semi-supervised Action Recognition | [Code](https://github.com/lambert-x/video-semisup)
 
-`CVPR 2022` | `CMPL` - | Cross-Model Pseudo-Labeling for Semi-Supervised Action Recognition | [Code](https://justimyhxu.github.io/projects/cmpl/)
+`CVPR 2022` | `CMPL` - Cross-Model Pseudo-Labeling for Semi-Supervised Action Recognition | [Code](https://justimyhxu.github.io/projects/cmpl/)
 
 ### <ins>Action recognition datasets</ins>
 
