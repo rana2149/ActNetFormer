@@ -57,6 +57,8 @@ Human action or activity recognition in videos is a fundamental task in computer
 
 `IEEE TIP 2023` | `NCCL` - Neighbor-guided consistent and contrastive learning for semi-supervised action recognition | [Code](https://ieeexplore.ieee.org/document/10100655)
 
+`Elsevier NN 2023` | `DANet` - DANet: Semi-supervised differentiated auxiliaries guided network for video action recognition | [Code](https://linkinghub.elsevier.com/retrieve/pii/S0893608022004506)
+
 ### <ins>Action recognition datasets</ins>
 
  `Kinetics-500 2017` | Kinetics400 Dataset: The Kinetics Human Action Video Dataset | [Link](https://github.com/cvdfoundation/kinetics-dataset)
