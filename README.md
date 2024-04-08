@@ -30,7 +30,7 @@ Human action or activity recognition in videos is a fundamental task in computer
 
 | Components       |    Details/Link     | Structure | 
 | ------------- | ------------- | ------------- |
-| 3D CNN as *Primary model* | [3D-ResNet50](https://github.com/kenshohara/3D-ResNets-PyTorch), [Paper](https://ieeexplore.ieee.org/document/9008780) | Inpur: 3 × 8 × 224 x 224 |
+| 3D CNN as *Primary model* | [3D-ResNet50](https://github.com/kenshohara/3D-ResNets-PyTorch), [Paper](https://ieeexplore.ieee.org/document/9008780) | Inpur: 3 × 8 × 224 x 224, Layers: 6 |
 | Video Transformer (VIT) as *Auxiliary model* | VIT-S: We employ the Vision Transformer ([ViT](https://paperswithcode.com/paper/an-image-is-worth-16x16-words-transformers-1)) extended with the video [TimeSformer](https://github.com/facebookresearch/TimeSformer) as the auxiliary model in our ActNetFormer inspired by [DeiT-S](https://paperswithcode.com/paper/training-data-efficient-image-transformers)| Dimensions: 384; Heads: 6; Layers: 12 | 
 | Spatial Data Augmentation| We utilize techniques in [SlowFast](https://github.com/facebookresearch/SlowFast) and [this](https://github.com/facebookresearch/video-nonlocal-net)| NA |
 | Temporal Data Augmentation| We incorporate variations in frame rates for temporal data augmentations, inspired by prior research in [TCL](https://github.com/CVIR/TCL) and [VTHCL](https://github.com/decisionforce/VTHCL) | NA |
