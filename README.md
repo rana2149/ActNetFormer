@@ -1,4 +1,4 @@
-# We will release the code of this work soon!! #
+# We will release the code soon!! #
 
 # ActNetFormer: Transformer-ResNet Hybrid Method for Semi-Supervised Action Recognition in Videos
 
