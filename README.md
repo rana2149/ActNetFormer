@@ -1,3 +1,5 @@
+**We will release the code of this work soon!!**
+
 # ActNetFormer: Transformer-ResNet Hybrid Method for Semi-Supervised Action Recognition in Videos
 
 ![My Image](assets/ICPR-24.png)
