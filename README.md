@@ -6,6 +6,8 @@
 
 This page contains all the Datasets and Code bases (experiments and evaluations) involved in experimenting and establishing our newly proposed **ActNetFormer** framework for video action recognition.
 
+The official repository of the paper with supplementary: [ActNetFormer](https://arxiv.org/abs/2404.06243)!!
+
 ## About the project
 
 This project is a carried out in [Monash University, Malaysia campus](https://www.monash.edu.my/).
