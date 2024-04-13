@@ -71,3 +71,29 @@ Human action or activity recognition in videos is a fundamental task in computer
 
 ![My Image](assets/results.png)
 For more details and experimental results please check out the paper!!
+
+##  Citation 
+
+If you find our work (i.e. the code, the theory/concept, or the dataset) useful for your research or development activities, please consider citing our work as follows:
+
+~~~
+@article{dass2024actnetformer,
+  title={ActNetFormer: Transformer-ResNet Hybrid Method for Semi-Supervised Action Recognition in Videos},
+  author={Dass, Sharana Dharshikgan Suresh and Barua, Hrishav Bakul and Krishnasamy, Ganesh and Paramesran, Raveendran and Phan, Raphael C-W},
+  journal={arXiv preprint arXiv:2404.06243},
+  year={2024}
+}
+~~~
+
+
+## License and Copyright
+
+
+~~~
+----------------------------------------------------------------------------------------
+Copyright 2024 | All the authors and contributors of this repository as mentioned above.
+----------------------------------------------------------------------------------------
+
+~~~
+
+Please check the [License](LICENSE) Agreement.
