@@ -71,6 +71,8 @@ Human action or activity recognition in videos is a fundamental task in computer
 
 `CRCV-TR-12-01 2012` |`UCF-101` | UCF101: A Dataset of 101 Human Action Classes From Videos in The Wild | [Link](https://www.crcv.ucf.edu/data/UCF101.php) 
 
+`ICCV 2011 ` | `HMDB51 Dataset` | HMDB: A large video database for human motion recognition | [Link](https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/)
+
 ## Experiments and Results
 
 ![My Image](assets/results.png)
