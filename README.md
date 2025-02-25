@@ -83,11 +83,13 @@ For more details and experimental results please check out the paper!!
 If you find our work (i.e. the code, the theory/concept, or the dataset) useful for your research or development activities, please consider citing our work as follows:
 
 ~~~
-@article{dass2024actnetformer,
+@inproceedings{dass2025actnetformer,
   title={ActNetFormer: Transformer-ResNet Hybrid Method for Semi-Supervised Action Recognition in Videos},
-  author={Dass, Sharana Dharshikgan Suresh and Barua, Hrishav Bakul and Krishnasamy, Ganesh and Paramesran, Raveendran and Phan, Raphael C-W},
-  journal={arXiv preprint arXiv:2404.06243},
-  year={2024}
+  author={Dass, Sharana Dharshikgan Suresh and Barua, Hrishav Bakul and Krishnasamy, Ganesh and Paramesran, Raveendran and Phan, Rapha{\"e}l C-W},
+  booktitle={International Conference on Pattern Recognition},
+  pages={343--359},
+  year={2025},
+  organization={Springer}
 }
 ~~~
 
