@@ -6,10 +6,7 @@
 
 This page contains all the Datasets and Code bases (experiments and evaluations) involved in experimenting and establishing our newly proposed **ActNetFormer** framework for video action recognition.
 
-The official repository of the paper with supplementary: [ActNetFormer](https://link.springer.com/chapter/10.1007/978-3-031-78354-8_22?fromPaywallRec=true)!!
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourrepo)
-
+The official repository of the paper with supplementary: [ActNetFormer](https://link.springer.com/chapter/10.1007/978-3-031-78354-8_22?fromPaywallRec=true) | ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=rana2149.ActNetFormer)
 
 ## About the project
 
